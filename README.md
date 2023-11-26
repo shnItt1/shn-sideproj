@@ -1,2 +1,4 @@
-﻿# Frontend-mentor Practice#1
- Result Summary
+﻿# frontend-mentor Practice Project
+
+PRODUCT PREVIEW CARD
+![#2](https://i.imgur.com/BtU80qW.png)
